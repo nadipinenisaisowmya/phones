@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="2px solid">
+        <thead>
+            <th>companies</th>
+            <th>realme</th>
+            <th>mi</th>
+            <th>apple</th>
+            <th>oneplus</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>images</td>
+            <td><img src="realme.jpg" alt=""height="300px"></td>
+            <td><img src="mi.jpg" alt=""height="300px"></td>
+            <td><img src="apple.webp" alt=""height="300px"></td>
+            <td><img src="oneplus.jpg" alt=""height="300px"></td>
+            </tr>
+            <tr>
+                <td>Ram</td>
+                <td>6gb/64gb</td>
+                <td>8gb/128gb</td>
+                <td>128gb</td>
+                <td>12gb/256gb</td>
+            </tr>
+            <tr>
+                <td>Battery</td>
+                <td>5000mah</td>
+                <td>4520mah</td>
+                <td>4500mah</td>
+                <td>5000mah</td>
+            </tr>
+            <tr>
+                <td>Processor</td>
+                <td>Mediatek Helio G99</td>
+                <td>Snapdragon 888 5G</td>
+                <td>A15 chip</td>
+                <td>Dual Core 2.4 GHz</td>
+            </tr>
+            <tr>
+                <td>Display</td>
+                <td>6.4 inch Full HD+AMOLED Display</td>
+                <td>6.67 inch Full HD+AMOLED Display</td>
+                <td>6.1 inch Super Retina XDR Display</td>
+                <td>6.7 inch</td>
+            </tr>
+            <tr>
+                <td>Camera</td>
+                <td>50 Mp</td>
+                <td>108 Mp</td>
+                <td>64 Mp</td>
+                <td>108 Mp</td>
+            </tr>
+            <tr>
+                <td>Warranty</td>
+                <td>1 year Manufacture</td>
+                <td>1 year Manufacture</td>
+                <td>1 year Manufacture</td>
+                <td>1 year Manufacture</td>
+            </tr>
+            munvar
+        </tbody>
+    </table>
+</body>
+</html>
